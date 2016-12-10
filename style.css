@@ -1,0 +1,33 @@
+html, body {
+	display: block;
+	font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+body {
+	background-color: rgba(0,0,0,0.8);
+}
+
+.container {
+	width: 450px;
+	position: relative;
+	display: block;
+	margin: 40px auto;
+}
+
+h1 {
+	color: white;
+}
+
+.title {
+	font-weight: 100;
+	font-size: 40px;
+	margin: 0;
+	padding: 0;
+	line-height: 1.3em;
+}
+
+#canvas {
+	display: block;
+	margin: 0;
+	border: 0px solid black;
+}
